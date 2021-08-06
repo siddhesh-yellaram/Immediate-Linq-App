@@ -1,0 +1,7 @@
+D:\test\.NET\ImmediateLinqQuery\bin\Debug\ImmediateLinqQuery.exe.config
+D:\test\.NET\ImmediateLinqQuery\bin\Debug\ImmediateLinqQuery.exe
+D:\test\.NET\ImmediateLinqQuery\bin\Debug\ImmediateLinqQuery.pdb
+D:\test\.NET\ImmediateLinqQuery\obj\Debug\ImmediateLinqQuery.csproj.AssemblyReference.cache
+D:\test\.NET\ImmediateLinqQuery\obj\Debug\ImmediateLinqQuery.csproj.CoreCompileInputs.cache
+D:\test\.NET\ImmediateLinqQuery\obj\Debug\ImmediateLinqQuery.exe
+D:\test\.NET\ImmediateLinqQuery\obj\Debug\ImmediateLinqQuery.pdb
